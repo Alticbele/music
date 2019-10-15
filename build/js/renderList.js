@@ -1,0 +1,1 @@
+window.Zepto,(window.player||{}).renderList=function(e){var a=document.createDocumentFragment(),n=document.getElementsByClassName("song-list")[0];e.forEach(function(e,n){var t=document.createElement("li");t.innerHTML=e.name+" --- "+e.singer,t.className="song",a.appendChild(t)}),n.appendChild(a)};
