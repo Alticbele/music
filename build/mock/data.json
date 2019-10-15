@@ -1,7 +1,7 @@
 [
     {
-        "img": "",
-        "audio": "./source/1.mp3",
+        "img": "../source/jay.jpg",
+        "audio": "../source/1.mp3",
         "singer": "周杰伦/阿信",
         "album": "说好不哭",
         "name": "说好不哭",
@@ -9,8 +9,8 @@
         "islike": true
     },
     {
-        "img": "./source/芒种.jpg",
-        "audio": "./source/2.mp3",
+        "img": "../source/芒种.jpg",
+        "audio": "../source/2.mp3",
         "singer": "傲寒同学",
         "album": "傲寒同学",
         "name": "芒种",
@@ -18,8 +18,8 @@
         "islike": false
     },
     {
-        "img": "./source/我只喜欢你.jpg",
-        "audio": "./source/3.mp3",
+        "img": "../source/我只喜欢你.jpg",
+        "audio": "../source/3.mp3",
         "singer": "胡夏",
         "album": "我只喜欢你",
         "name": "我只喜欢你",
@@ -27,8 +27,8 @@
         "islike": false
     },
     {
-        "img": "./source/你.jpg",
-        "audio": "./source/4.mp3",
+        "img": "../source/你.jpg",
+        "audio": "../source/4.mp3",
         "singer": "印子月",
         "album": "你",
         "name": "你",
